@@ -1,0 +1,29 @@
+Notas Aulas
+----------------------------------------------------------------------------------------------------------
+Objetivo
+- Prever se o banco vai ou não realizar o empréstimo.
+- Em quê que prever se o banco vai ou não realizar o empréstimo pode ou não ter influencia no negócio;
+- Pensar em métricas de data mining e também de  negócio;
+
+Quando dou  crédito a quem não consegue pagar?
+Quando dou crédito a quem consegue?
+Quando não dou crédito a quem conseguiria pagar?
+
+----------------------------------------------------------------------------------------------------------
+Business Understanding
+1. Dertermine Business Objetives   
+
+
+
+
+2. Assess  Situation
+
+
+
+
+3. Dertermine Data Mining Goals 
+
+
+
+
+4. Produce  Project Plan
