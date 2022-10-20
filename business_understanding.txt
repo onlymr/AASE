@@ -12,8 +12,8 @@ Quando não dou crédito a quem conseguiria pagar?
 ----------------------------------------------------------------------------------------------------------
 Business Understanding
 1. Dertermine Business Objetives   
-
-
+- Prever se o banco vai ou não realizar o empréstimo.
+- 
 
 
 2. Assess  Situation
