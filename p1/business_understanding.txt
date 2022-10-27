@@ -9,10 +9,13 @@ Quando dou  crédito a quem não consegue pagar?
 Quando dou crédito a quem consegue?
 Quando não dou crédito a quem conseguiria pagar?
 
+analisar dados.
+fazer relatorio.
 ----------------------------------------------------------------------------------------------------------
 1 Business Understanding
     1.1 Dertermine Business Objetives   
-        1.1.1 Background
+        1.1.1 Background (situação de negócio) contexto dos dados, em que se aplica, consultora contratada, recurso alocado a decisao/substituir apoiar.
+
         1.2.1 Business Objetives
         1.3.1 Business Success
         1.4.1 Business success criteria
