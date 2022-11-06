@@ -1,5 +1,0 @@
-Temos que criar uma warehouse.
-KPIS
-transformacoes - joins e depois transformaçoes.
-
-label encoder
